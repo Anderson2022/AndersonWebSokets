@@ -1,6 +1,6 @@
 # AndersonDocs | Documento
 
-![AndersonDocs Logo](public\teste.png)
+![AndersonDocs Logo](public/teste.png)
 
 ## Descrição
 
@@ -12,12 +12,6 @@ Este é um documento sem título que permite aos usuários colaborarem em tempo 
 - Exibição de usuários conectados.
 - Opção para excluir o documento.
 
-## Instalação
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
 
 ##  Tecnologias Utilizadas
 HTML
